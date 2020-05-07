@@ -12,7 +12,7 @@ namespace myNewLibrary
         [ExcelFunction(Description = "My first .NET function")]
         public static string SayHello(string name)
         {
-            return "Hello v2 " + name;
+            return "Hello v3 " + name;
         }
 
     }
